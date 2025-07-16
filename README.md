@@ -1,2 +1,2 @@
 # Currency_converter
-first commit
+This app is used to convert ne currency to another.
